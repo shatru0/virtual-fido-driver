@@ -1,0 +1,3 @@
+[submodule "usbip-win64-driver/usbip-win"]
+	path = usbip-win64-driver/usbip-win
+	url = https://github.com/cezanne/usbip-win.git
