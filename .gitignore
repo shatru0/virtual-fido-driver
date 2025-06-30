@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Dont ignore the exe in the usbip windows deriver build
+!usbip-win64-driver/bin/*.exe
